@@ -9,6 +9,8 @@ Laboratory work nr.4 for Web Programming course
 npm install
 ```
 
+Put your credentials in .env
+
 ### Compile and Hot-Reload for Development
 
 ```sh
